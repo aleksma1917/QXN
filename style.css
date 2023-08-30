@@ -23,10 +23,10 @@ body, html {
 
 
 #luckyJet {
-right: 10%;
+right: 50%;
   position:absolute;
   display: flex;
-  height: 30%;
+  height: 200px;
   cursor: pointer;
   animation: bounce 3s infinite;
 }
